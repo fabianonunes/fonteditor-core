@@ -1,5 +1,5 @@
 {
-  "name": "fonteditor-core",
+  "name": "@fabianonunes/fonteditor-core",
   "version": "1.0.5",
   "description": "fonts (ttf, woff, eot, svg, otf) parse, write, transform. glyph adjust.",
   "keywords": [
@@ -13,7 +13,7 @@
     "otf"
   ],
   "homepage": "https://github.com/kekee000/fonteditor-core",
-  "author": [
+  "contributors": [
     {
       "name": "kekee000",
       "email": "kekee000@gmail.com"
@@ -64,5 +64,6 @@
     "estraverse": "^4.1.0",
     "pako": "^0.2.7",
     "phantomjs": "^1.9.17"
-  }
+  },
+  "license": "ISC"
 }
